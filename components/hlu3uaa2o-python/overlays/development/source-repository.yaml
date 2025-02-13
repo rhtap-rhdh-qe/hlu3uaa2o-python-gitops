@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: hlu3uaa2o-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/hlu3uaa2o-python
